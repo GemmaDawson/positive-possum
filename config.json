@@ -1,0 +1,17 @@
+{
+	"rootfoldergemmad": "~/GitHub/cake-or-death/",
+  "rootfolderpeterf": "~/Documents/Github/positive-possum/",
+  "rootfolder": "/srv/shiny-server/app/",
+	"rootfolder_comment": "For the server, use something like /srv/shiny-server/cake-or-death/. For Local testing set the above to your root directory",
+	"server": "app",
+	"shiny": {
+		"use_custom_config": false,
+		"port": 80,
+		"host": "0.0.0.0"
+	},
+    "rediscontainer": {
+        "name": "app-redis",
+        "ip": "127.0.0.1",
+        "port": 6369
+    }
+}

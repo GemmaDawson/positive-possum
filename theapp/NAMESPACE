@@ -1,0 +1,18 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom("stats", "filter")
+#importFrom(tidyr,gather)
+#importFrom(sf,st_as_sf)
+#importFrom(sf,st_sf)
+#importFrom(sf,st_coordinates)
+#importFrom(sf,st_polygon)
+#importFrom(sf,st_sfc)
+#import(dplyr)
+#import(purrr)
+
+#import(assertthat)
+#import(lubridate)
+#import(purrr)
+#import(shiny)
+#import(shinyCleave)
+#import(stringr)
