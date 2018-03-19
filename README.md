@@ -1,2 +1,4 @@
 # positive-possum
-This is an application for one to caputure ones time, and other stuff
+This is an application for one to caputure ones time, and other stuff.
+
+It mainly uses R's shiny server tools.
